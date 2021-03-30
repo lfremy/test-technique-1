@@ -1,0 +1,35 @@
+body{
+    padding-top: 100px;
+    background-color: #333;
+    color: #F1F1F1;
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+    padding-bottom: 25px;
+    color: burlywood;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    
+}
+
+input {
+    width: 200px;
+       
+}
+.submit{
+    background-color: burlywood; 
+    color: black;
+}
